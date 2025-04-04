@@ -5,6 +5,8 @@
 #include <array>
 #include <cmath>
 #include <initializer_list>
+#include <stdexcept>
+
 
 /**
  * @file control_types.h
